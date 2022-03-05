@@ -3,3 +3,4 @@ Change1 in RemoteFile
 Change2 in RemoteFile
 
 change3 in Local
+change4 in RemoteFile
